@@ -1,11 +1,3 @@
-========================================================================================================
-
-------------------------------------------------------------------------------README.md-------------------------------------------------------------------------------------------------------------------------
-
-========================================================================================================
-
-
-
 cHaNtJsChAnTjScHaNtJsChAnTjSchAntJsCHaNTjSCHaNTjS///cHaNtJsChAnTjScHaNtJsChAnTjSchAntJsCHaNTjSCHaNTjS
 cHaNtJsChAnTjScHaNtJsChAnTjSchAntJsCHaNTjSCHaNTjS///cHaNtJsChAnTjScHaNtJsChAnTjSchAntJsCHaNTjSCHaNTjS
 cHaNtJsChAnTjScHaNtJsChAnTjSchAntJsCHaNTjSCHaNTjS///cHaNtJsChAnTjScHaNtJsChAnTjSchAntJsCHaNTjSCHaNTjS
@@ -13,11 +5,11 @@ cHaNtJsChAnTjScHaNtJsChAnTjSchAntJsCHaNTjSCHaNTjS///cHaNtJsChAnTjScHaNtJsChAnTjS
 cHaNtJsChAnTjScHaNtJsChAnTjSchAntJsCHaNTjSCHaNTjS///cHaNtJsChAnTjScHaNtJsChAnTjSchAntJsCHaNTjSCHaNTjS
 cHaNtJsChAnTjScHaNtJsChAnTjSchAntJsCHaNTjSCHaNTjS///cHaNtJsChAnTjScHaNtJsChAnTjSchAntJsCHaNTjSCHaNTjS
 cHaNtJsChAnTjScHaNtJsChAnTjSchAntJsCHaNTjSCHaNTjS///cHaNtJsChAnTjScHaNtJsChAnTjSchAntJsCHaNTjSCHaNTjS
-===============================================================================
+=====================================================================================================
 
-----------------------------------------------------------------------------------*.ajs----------------------------------------------------------------------------------
+------------------------------------------------*.ajs------------------------------------------------
 
-===============================================================================
+=====================================================================================================
 cHaNtJsChAnTjScHaNtJsChAnTjSchAntJsCHaNTjSCHaNTjS///cHaNtJsChAnTjScHaNtJsChAnTjSchAntJsCHaNTjSCHaNTjS
 cHaNtJsChAnTjScHaNtJsChAnTjSchAntJsCHaNTjSCHaNTjS///cHaNtJsChAnTjScHaNtJsChAnTjSchAntJsCHaNTjSCHaNTjS
 cHaNtJsChAnTjScHaNtJsChAnTjSchAntJsCHaNTjSCHaNTjS///cHaNtJsChAnTjScHaNtJsChAnTjSchAntJsCHaNTjSCHaNTjS
